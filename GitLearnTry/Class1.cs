@@ -8,6 +8,6 @@ namespace GitLearnTry
 {
     public class Class1
     {
-        Console.WriteLine("Merheba Kitab");
+        public string Name { get; set; }
     }
 }
