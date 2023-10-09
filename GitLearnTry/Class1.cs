@@ -13,6 +13,7 @@ namespace GitLearnTry
         public string Description { get; set; }
         public string Age { get; set; }
         public int Number {get; set;}
+        public int PhoneNumber {get; set;}
         
     }
 }
