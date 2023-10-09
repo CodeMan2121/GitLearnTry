@@ -7,3 +7,5 @@ Console.WriteLine("Hello, Dınya!");
 Console.WriteLine("Writing anything on FirstBranch!");
 Console.WriteLine("Writing second thing on FirstBranch");
 Console.WriteLine("FirstBranch içerisinde bir şeyler yazdım.");
+
+Console.WriteLine("Writing anything for sync process");
