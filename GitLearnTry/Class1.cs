@@ -12,5 +12,6 @@ namespace GitLearnTry
         public string LastName { get; set; }
         public string Description { get; set; }
         public string Age { get; set; }
+        public id Number {get; set;}
     }
 }
